@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 - Manufactoring Engineering is in my Blood. 
 - I'm a 3d Model Creator!
 - My hobby is called Photogrammetry.
-- I create games in UnReal Engine.
+- I create games in UnReal Engine.  
+
+---
 
 ### I'm currently learning ... 🔭
 
@@ -50,10 +52,12 @@ Here are some ideas to get you started:
 - Cisco ISE
 - Micro Focus Orchestration Operations
 - DevNet Associate
-- Oracle DevOps
+- Oracle DevOps  
+
+---
 
 ### My Toolbag: 💡  
-<br>
+<br>  
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=Shell_Script&color=23121011)
