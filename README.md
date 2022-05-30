@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - DevNet Associate
 - Oracle DevOps
 
-### My Technical Skills: 💡  
+### My Toolbag: 💡  
 <br>
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
