@@ -1,5 +1,10 @@
 ### Welcome to my Github page!  
 
+<p align="center">
+    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="1500" height="300" src="images/network.jpg" alt="My Banne.">
+    </a>
+</p>
+
 <br>
 
 <!--
@@ -78,6 +83,6 @@ Here are some ideas to get you started:
 ![Mac OS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&color=F4A259)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=5B8E7D)
 ![Splunk](https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=351E29)
-![Micro Focus](https://img.shields.io/badge/Network%20Automation-Micro%20Focus%20Operation%20Orchestration-blue)
+![Micro Focus](https://img.shields.io/badge/Network%20Automation-Micro%20Focus%20Operation%20Orchestration-informational?style=flat&logo=MicroFocus&color=2274A5)
 
 
