@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="1000" height="525" src="images/ninjabike.png" alt="My 3D Scans.">
+    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="1000" height="250" src="images/banner.png" alt="My 3D Scans.">
     </a>
 </p>
 
