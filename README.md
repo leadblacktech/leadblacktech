@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <h4 align="center">
     I am a student of Education and Learning is my Business.💡  
 </h4>
+
 <br>
+
 ### Get To Know Me: ⚡
 
 - I'm a Network Engineer! 
