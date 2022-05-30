@@ -1,4 +1,4 @@
-### Hi there :bust_in_silhouette:
+### Welcome to my Github Profile :bust_in_silhouette:
 
 <!--
 **leadblacktech/leadblacktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,20 +23,20 @@ Here are some ideas to get you started:
     I'm a Network Engineer, Developer, best at Coustomer Services, and hands on with Tech.:computer:
 </h4>
 
-## Get To Know Me:
+## Get To Know Me: ⚡
 
-- I'm a net Network Engineer! :triangular_ruler:
-- Maufactoring Engineering is in my Blood. :clipboard:
+- I'm a net Network Engineer! 
+- Manufactoring Engineering is in my Blood. 
 - I'm a 3d Model Creator!
-- my hobby is called Photgrammetry.
+- my hobby is called Photogrammetry.
 - I've created serveral personal games in UnReal Engine.
 
-## I’m currently learning ...
+## I’m currently learning ... 🔭
 
-- SQL 🕸
-- Infoblox ⛓
-- Machine Learning 🤖
-- DevSecOps & Tools 📊
+- SQL 
+- Infoblox 
+- Machine Learning 
+- DevSecOps & Tools 
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - DevNet Associate
 - Oracle DevOps
 
-## My Technical Skills: 
+## My Technical Skills: :triangular_ruler:
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=Shell_Script&color=23121011)
