@@ -1,4 +1,6 @@
-### Welcome to my Github Profile :bust_in_silhouette:
+### Welcome to my Github page!  
+
+<br>
 
 <!--
 **leadblacktech/leadblacktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +22,13 @@ Here are some ideas to get you started:
 </h3>
 
 <h4 align="center">
-    I'm a Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨
+    I'm a Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
 </h4>
 
+<h4 align="center">
+    I am a student of Education and Learning is my Business.💡  
+</h4>
+<br>
 ### Get To Know Me: ⚡
 
 - I'm a Network Engineer! 
