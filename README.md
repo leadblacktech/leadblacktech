@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - Infoblox 
 - Machine Learning (beginner)
 - Python
-- Cyber Security (Penetration Testing) (beginner)
+- Cyber Security (Pen Testing) (beginner)
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
