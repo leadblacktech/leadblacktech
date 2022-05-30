@@ -20,19 +20,20 @@ Here are some ideas to get you started:
 </h3>
 
 <h4 align="center">
-    I'm a Network Engineer, Developer, best at Coustomer Services, and hands on with Tech.✨
+    I'm a Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨
 </h4>
 
 ### Get To Know Me: ⚡
 
-- I'm a net Network Engineer! 
+- I'm a Network Engineer! 
 - Manufactoring Engineering is in my Blood. 
 - I'm a 3d Model Creator!
-- my hobby is called Photogrammetry.
-- I've created serveral personal games in UnReal Engine.
+- My hobby is called Photogrammetry.
+- I create games in UnReal Engine.
 
 ### I'm currently learning ... 🔭
 
+- CCNA
 - SQL 
 - Infoblox 
 - Machine Learning 
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
-- CCNA
 - DevNet Associate
 - Oracle DevOps
 
