@@ -46,13 +46,14 @@ Here are some ideas to get you started:
 - CCNA
 - SQL 
 - Infoblox 
-- Machine Learning 
-- DevSecOps & Tools 
+- Machine Learning (beginner)
+- Python
+- Cyber Security (Penetration Testing) (beginner)
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
 - DevNet Associate
-- Oracle DevOps  
+- Oracle DevOps  (beginner)
 
 ---
 
