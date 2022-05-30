@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-    Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(he/him)
+    Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(LeadBlackTech)
 </h3>
 
 <h4 align="center">
