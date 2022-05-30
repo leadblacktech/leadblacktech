@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
-- DevNet Associate
+- DevNet Associate (learning)
 - Oracle DevOps (beginner)
 
 ---
