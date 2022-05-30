@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     I'm a Network Engineer, Developer, best at Coustomer Services, and hands on with Tech.:computer:
 </h4>
 
-## Get To Know Me: ⚡
+### Get To Know Me: ⚡
 
 - I'm a net Network Engineer! 
 - Manufactoring Engineering is in my Blood. 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - my hobby is called Photogrammetry.
 - I've created serveral personal games in UnReal Engine.
 
-## I’m currently learning ... 🔭
+### I'm currently learning ... 🔭
 
 - SQL 
 - Infoblox 
@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 - DevNet Associate
 - Oracle DevOps
 
-## My Technical Skills: :triangular_ruler:
+### My Technical Skills: 💡  
+<br>
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=Shell_Script&color=23121011)
@@ -66,4 +67,3 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=5B8E7D)
 
 ![Splunk](https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=351E29)
-
