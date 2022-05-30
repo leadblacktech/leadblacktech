@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - Micro Focus Orchestration Operations
 - DevNet Associate (learning)
 - Oracle DevOps (beginner)
-- Photogrammetry (3D Models)
+- Photogrammetry (3D Models | Banner)
 ---
 
 ### My Toolbag: 💡  
