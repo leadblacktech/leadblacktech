@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 ### always be learning ... 🔭
 
 - CCNA
+- Ansible
+- Chef
+- Linux
+- Openshift Redhat Linux 
 - SQL 
 - Infoblox 
 - Machine Learning (beginner)
@@ -53,7 +57,7 @@ Here are some ideas to get you started:
 - Cisco ISE
 - Micro Focus Orchestration Operations
 - DevNet Associate
-- Oracle DevOps  (beginner)
+- Oracle DevOps (beginner)
 
 ---
 
