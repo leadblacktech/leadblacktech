@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h4 align="center">
-    I'm a Network Engineer, Developer, best at Coustomer Services, and hands on with Tech.:computer:
+    I'm a Network Engineer, Developer, best at Coustomer Services, and hands on with Tech.✨
 </h4>
 
 ### Get To Know Me: ⚡
