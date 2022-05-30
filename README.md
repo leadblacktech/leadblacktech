@@ -1,7 +1,7 @@
 ### Welcome to my Github page!  
 
 <p align="center">
-    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="1500" height="300" src="images/network.jpg" alt="My Banne.">
+    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="2000" height="400" src="images/ninjabike.png" alt="My 3D Scans.">
     </a>
 </p>
 
