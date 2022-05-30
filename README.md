@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Ansible
 - Chef
 - Linux
-- Openshift Redhat Linux 
+- Openshift 
 - SQL 
 - Infoblox 
 - Machine Learning (beginner)
