@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h4 align="center">
-    I'm a Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
+    Network Engineer, Developer, best at Coustomer Service, and hands on with Tech.✨  
 </h4>
 
 <h4 align="center">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Get To Know Me: ⚡
 
-- I'm a Network Engineer! 
+- Network Engineer! 
 - Manufactoring Engineering is in my Blood. 
 - I'm a 3d Model Creator!
 - My hobby is called Photogrammetry.
