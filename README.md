@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 <h4 align="center">
     I am a student of Education and Learning is my Business. I enjoy Network Automation.💡
-</h4>
+</h4>  
 
-<br>
+---
 
 ### Get To Know Me: ⚡
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 - CCNA
 - Network Automation
 - Ansible
-- Chef
 - Linux
 - Openshift 
 - SQL 
@@ -60,11 +59,10 @@ Here are some ideas to get you started:
 - Python
 - Penetratiing Tester (beginner)
 - Cisco ACI
-- Cisco ISE
 - Micro Focus Orchestration Operations
 - DevNet Associate (learning)
 - Oracle DevOps (beginner)
-
+- Photogrammetry (3D Models)
 ---
 
 ### My Toolbag: 💡  
