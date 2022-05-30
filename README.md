@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-    I am a student of Education and Learning is my Business.💡  
+    I am a student of Education and Learning is my Business. I enjoy Network Automation.💡
 </h4>
 
 <br>
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ### always be learning ... 🔭
 
 - CCNA
+- Network Automation
 - Ansible
 - Chef
 - Linux
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 - Infoblox 
 - Machine Learning (beginner)
 - Python
-- Cyber Security (Pen Testing) (beginner)
+- Penetratiing Tester (beginner)
 - Cisco ACI
 - Cisco ISE
 - Micro Focus Orchestration Operations
