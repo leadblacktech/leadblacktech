@@ -1,4 +1,4 @@
-### Welcome!  
+<h1 align="center">Welcome!</h1>
 
 ---
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Get To Know Me: ⚡
+ Get To Know Me: ⚡
 
 - Network Engineer! 
 - Manufactoring Engineering is in my Blood. 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-### always be learning ... 🔭
+ always be learning ... 🔭
 
 - CCNA
 - Network Automation
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - Photogrammetry (3D Models | Banner)
 ---
 
-### My Toolbag: 💡  
+ My Toolbag: 💡  
 <br>  
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
