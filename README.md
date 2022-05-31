@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 ![Puppet](https://img.shields.io/badge/Config-Puppet-informational?style=flat&logo=Puppet&color=FC440F)
 <br>
 ![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC)
-![GitHub Actions](https://img.shields.io/badge/CICD-GitHubActions-informational?style=flat&logo=GitHub&color=77567A)
 ![Jenkins](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=Jenkins&color=C47AC0)
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&color=F4E285)
