@@ -3,11 +3,6 @@
 ---
 
 <br>
-<p align="center">
-    <a href="http://andrebondsr.com" target="_blank" rel="noreferrer"><img width="1000" height="250" src="images/banner.png" alt="My 3D Scans."></a>
-</p>
-
-<br>
 
 <h3 align="center">
     Hi, I'm <a href="https://andrebondsr.com/" target="_blank" rel="noreferrer">Andre' Bond </a>(LeadBlackTech)
