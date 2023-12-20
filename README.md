@@ -42,7 +42,7 @@
 - Micro Focus Orchestration Operations
 - DevNet Associate (learning)
 - Oracle DevOps (beginner)
-- Photogrammetry (3D Models | Banner)
+- Photogrammetry (3D Models | beginner)
 
 ---
 
