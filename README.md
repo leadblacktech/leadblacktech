@@ -18,7 +18,7 @@
 
  Get To Know Me: ⚡
 
-- Network Engineer! 
+- Network Developer
 - Manufacturing Engineering is in my Blood. 
 - I'm a 3d Model Creator!
 - My hobby is called Photogrammetry.
@@ -28,16 +28,13 @@
 
  always be learning ... 🔭
 
-- CCNA
 - Network Automation
 - Ansible
 - Linux
 - Openshift 
 - SQL 
 - Infoblox 
-- Machine Learning (beginner)
 - Python
-- Penetratiing Tester (beginner)
 - Cisco ACI
 - Micro Focus Orchestration Operations
 - DevNet Associate (learning)
